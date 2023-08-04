@@ -5,6 +5,11 @@ This project is a responsive clone of Spotify's web application built using only
 
 
 # Project Preview
+
+![App Screenshot](https://github.com/SangitaSen1998/spotify-clone-aug/blob/main/Icons/Screenshots/main.png)
+
+![App Screenshot](https://github.com/SangitaSen1998/spotify-clone-aug/blob/main/Icons/Screenshots/player.png)
+
 # Features
 
 - Responsive design that adapts to various screen sizes and devices.
